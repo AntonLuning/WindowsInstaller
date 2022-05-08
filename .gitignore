@@ -1,0 +1,14 @@
+# Binaries
+**/bin/
+**/obj/
+**/bin-int/
+
+# Visual Studio files
+.vs/
+**.sln
+**.csproj**
+**.vcxproj**
+.editorconfig
+
+# Other
+TEMP**
